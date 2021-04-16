@@ -1,6 +1,6 @@
 # What is this repository for? 
 
-This course has been taught by Yusuf Sinan Akgul at Gebze Technical University in 2020. These are the homeworks of the course. You can find the course videos on [Youtube](https://www.youtube.com/watch?v=HFHAkJYn5Ww).
+This course has been taught by Prof.Dr. Yusuf Sinan Akgul at Gebze Technical University in 2020. These are the homeworks of the course. You can find the course videos on [Youtube](https://www.youtube.com/watch?v=HFHAkJYn5Ww).
 
 ## Installation
 
