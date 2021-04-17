@@ -4,7 +4,7 @@ This course has been taught by Prof.Dr. Yusuf Sinan Akgul at Gebze Technical Uni
 
 ## Installation
 
-Download the .zip files. Source codes are in there. 
+Some homeworks have makefile. You can type "make" to use these projects. 
 
 ## Copyright
 
